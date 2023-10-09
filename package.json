@@ -1,0 +1,23 @@
+{
+  "name": "heart-desire",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.43.6",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "slidev-theme-penguin": "^2.1.0",
+    "vue3-audio-player": "^1.0.7"
+  },
+  "devDependencies": {
+    "@iconify-json/circum": "^1.1.6",
+    "@iconify-json/fxemoji": "^1.1.5",
+    "@iconify-json/logos": "^1.1.37",
+    "less": "^4.2.0",
+    "less-loader": "^11.1.3"
+  }
+}
