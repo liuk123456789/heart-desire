@@ -178,7 +178,6 @@ Also, HTML elements are valid:
 </div>
 -->
 
-
 ---
 class: px-20
 ---
@@ -372,7 +371,6 @@ cloud {
   [Example 1]
 }
 
-
 database "MySql" {
   folder "This is my folder" {
     [Folder 3]
@@ -381,7 +379,6 @@ database "MySql" {
     [Frame 4]
   }
 }
-
 
 [Another Component] --> [Example 1]
 [Example 1] --> [Folder 3]
